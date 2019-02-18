@@ -1,2 +1,3 @@
 # hello-world
-first repository name
+
+a bit about myself
